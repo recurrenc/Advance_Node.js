@@ -1,0 +1,24 @@
+{
+  "name": "advance_node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Learn advance techniques for asynchronous programming and data streaming in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonuKumar81800/Advance_Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonuKumar81800/Advance_Node.js/issues"
+  },
+  "homepage": "https://github.com/SonuKumar81800/Advance_Node.js#readme",
+  "dependencies": {
+    "log-update": "^5.0.1"
+  }
+}
